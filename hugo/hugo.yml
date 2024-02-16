@@ -1,0 +1,35 @@
+baseURL: "https://omikuji.github.io/"
+languageCode: "ja"
+title: "omikuji"
+theme: "PaperMod"
+
+params:
+  twitter: 'omikuji_man'
+  github: 'omikuji'
+  rss: true
+  avatar: 'omikujiman@gmail.com'
+  name: 'omikuji'
+  bio: "foo!"
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  profileMode:
+    enabled: true
+    title: "omikuji"
+    subtitle: "very super omikuji man"
+    imageUrl: "https://pbs.twimg.com/profile_images/1756225834007097344/6gZNFgY__400x400.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: "Posts"
+        url: "posts"
+      - name: "Tags"
+        url: "tags"
+  socialIcons:
+    - name: "x"
+      url: "https://x.com/omikuji_man"
+    - name: "github"
+      url: "https://github.com/omikuji"
+
