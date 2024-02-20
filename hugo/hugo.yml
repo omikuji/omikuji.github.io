@@ -2,8 +2,10 @@ baseURL: "https://omikuji.dev/"
 languageCode: "ja"
 title: "omikuji"
 theme: "PaperMod"
+googleAnalytics: G-WZJJX0YSHQ
 
 params:
+  env: production
   twitter: 'omikuji_man'
   github: 'omikuji'
   rss: true
