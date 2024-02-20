@@ -34,4 +34,6 @@ params:
       url: "https://x.com/omikuji_man"
     - name: "github"
       url: "https://github.com/omikuji"
+    - name: "sauna-ikitai"
+      url: "https://sauna-ikitai.com/saunners/121700"
 
